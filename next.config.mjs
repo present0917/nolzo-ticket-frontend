@@ -1,3 +1,4 @@
+console.log('API_BASE_URL (build):', process.env.API_BASE_URL)
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
